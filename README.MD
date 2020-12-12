@@ -1,0 +1,3 @@
+# Dynamical Triangulation Monte Carlo
+
+This project study the fluid membrane with chiral edge, modeling the membrane with triangle mesh made of beads and bond, The following energy were considered for the memrbane, the bending energy, edge line tension, edge bending, and effective chiral energy on the edge modeled by geodesic torsion, while gaussian curvature part was also included in the bending energy, it was rewritten use the Gauss-Bonet theorem.
