@@ -1,6 +1,6 @@
 /*
 !code
 !analyze
-!plot/*.py
+!plots/*.py
 !README.md
 !.gitignore
